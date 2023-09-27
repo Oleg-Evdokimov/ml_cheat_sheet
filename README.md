@@ -18,3 +18,6 @@ Other resources:
 + http://www.dataschool.io/comparing-supervised-learning-algorithms/ (table of superstitions)
 + https://github.com/soulmachine/machine-learning-cheat-sheet (more like cheat 100 sheets)
 + http://scott.fortmann-roe.com/docs/BiasVariance.html (blog about the bias/variance problem)
+<div id ="sch" align="center">
+<img src="https://komarev.com/ghpvc/?username=Oleg-Evdokimov&style=flat-square&color=blue" alt = ""/>
+</div>
